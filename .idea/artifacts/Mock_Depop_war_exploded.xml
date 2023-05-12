@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Mock-Depop:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mock_Depop_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Mock-Depop/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Mock-Depop" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
